@@ -1,2 +1,2 @@
-# practice_repo
-Just a nice little place to practice my Python and SQL skills 
+# styleometry
+To answer the question once and for all if Kit Marlowe was Shakespeare and vice versa. Will import boths' complete works. Will create the "Marlowe detector" based on about 70% of Marlowe's work. Will test with unseen confirmed Marlowe plays to confirm it is working. Then will test on some Shakespeare work to see what the score is.
